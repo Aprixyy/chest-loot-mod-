@@ -1,0 +1,7 @@
+{
+  "biomes": {
+    "minecraft:plains": ["minecraft:chests/simple_dungeon"],
+    "minecraft:desert": ["minecraft:chests/desert_pyramid"],
+    "default": []
+  }
+}
